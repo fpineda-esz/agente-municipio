@@ -5,4 +5,3 @@ langchain-google-genai
 chromadb
 python-dotenv
 google-genai
-protobuf==3.20.3
