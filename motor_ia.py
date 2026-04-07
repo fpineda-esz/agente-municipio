@@ -48,7 +48,7 @@ def crear_agente():
         
         mi_llave = os.getenv("GOOGLE_API_KEY")
 
-        embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=mi_llave)
+        embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004", google_api_key=mi_llave)
         # --- INICIO DEL TRUCO ANTI-BLOQUEO ---
         # 1. Creamos la base de datos vacía
         vectorstore = Chroma(embedding_function=embeddings)
