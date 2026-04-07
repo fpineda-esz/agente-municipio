@@ -47,7 +47,7 @@ def crear_agente():
         
         mi_llave = os.getenv("GOOGLE_API_KEY")
 
-        embeddings = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-001", google_api_key=mi_llave)
+        embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=mi_llave)
         vectorstore = Chroma.from_documents(documents=textos_divididos, embedding=embeddings)
         retriever = vectorstore.as_retriever(search_kwargs={"k": 4}) 
         
