@@ -1,0 +1,36 @@
+NOMBRE DEL TRÁMITE: 
+Expedición de Constancia de Certificación Catastral
+
+DEPENDENCIA: 
+Tesorería Municipal
+
+ORDEN DE GOBIERNO: 
+Municipal
+
+PROPÓSITO Y CASOS DE USO:
+Este trámite otorga el código de identificación único (clave catastral) de un inmueble, certificando sus datos geográficos, cuantitativos y cualitativos ante el municipio. Es el documento que "da de alta" o valida la identidad del predio ante la hacienda pública.
+El ciudadano suele buscar este trámite cuando:
+- Necesita conocer la clave catastral oficial de su propiedad.
+- No cuenta con documentos que muestren las medidas o datos de su predio ante el catastro.
+- Va a realizar trámites posteriores de construcción o permisos de negocio.
+
+REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+- REQUISITO PREVIO CRÍTICO: SI el ciudadano no tiene sus Escrituras Públicas debidamente inscritas ante el Registro Público de la Propiedad, ENTONCES no puede realizar este trámite.
+- CONEXIÓN CON DESARROLLO URBANO: SI el ciudadano pretende tramitar un "Permiso de Uso de Suelo" o un "Permiso de Construcción Obra Nueva", ENTONCES la Constancia de Certificación Catastral es un requisito obligatorio que debe obtener previamente.
+- INTERÉS JURÍDICO: El trámite puede ser solicitado por cualquier interesado, siempre que presente la documentación legal del predio (no es exclusivo del propietario registral).
+
+REQUISITOS OBLIGATORIOS:
+1. Escritura Pública del predio (debe contar con el sello de inscripción en el Registro Público).
+
+COSTOS:
+El costo se determina según la naturaleza de la certificación:
+a) Por validación/certificación de datos existentes (gestión de permisos o dudas sobre documentos ya emitidos): $116.46 MXN.
+b) Por expedición de nueva Constancia de Clave Catastral:
+   - Costo base por el primer predio: $79.81 MXN (compuesto por una base de $69.48 + $10.33 del primer registro).
+   - Por cada predio adicional en la misma constancia: +$10.33 MXN.
+
+TIEMPO DE RESPUESTA:
+3 días hábiles.
+
+VIGENCIA:
+No aplica vigencia temporal fija. El documento solo pierde validez si el predio sufre modificaciones físicas o legales que obliguen a una actualización catastral (como una subdivisión que genere nuevas claves).

@@ -1,0 +1,45 @@
+NOMBRE DEL TRÁMITE: 
+Licencia nueva de funcionamiento en materia de bebidas alcohólicas
+
+DEPENDENCIA: 
+Servicio de Administración Tributaria del Estado de Guanajuato (SATEG)
+
+ORDEN DE GOBIERNO: 
+Estatal
+
+PROPÓSITO Y CASOS DE USO:
+Es la autorización indispensable emitida por el Estado para la venta y/o consumo de bebidas alcohólicas en establecimientos comerciales. Sin esta licencia, cualquier actividad relacionada con el alcohol es ilegal.
+El ciudadano busca este trámite cuando:
+- "Quiero abrir un bar, cantina o centro nocturno."
+- "Tengo un restaurante y quiero ofrecer vino o cerveza con los alimentos."
+- "Voy a abrir una tienda de abarrotes o conveniencia y quiero vender cerveza o licores."
+
+REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+- LA LLAVE MUNICIPAL: SI el ciudadano no cuenta con el "Número Oficial" y el "Permiso de Uso de Suelo" (que el SATEG llama Constancia de Factibilidad), ENTONCES no puede iniciar el trámite estatal.
+- REGLA DE ESPECIFICIDAD: El sistema debe advertir: "Tu Permiso de Uso de Suelo DEBE decir explícitamente 'Venta de bebidas alcohólicas'. Si no lo menciona, el SATEG rechazará la solicitud de inmediato".
+- REGLA DE PROPIEDAD: A diferencia de otros trámites, aquí es obligatorio presentar la Constancia de inscripción del inmueble en el Registro Público de la Propiedad (RPP).
+- INDEPENDENCIA OPERATIVA: El SATEG no exige los vistos buenos de Protección Civil o Salud para otorgar la licencia, aunque el Municipio sí los pedirá para permitir que el negocio abra sus puertas.
+- COSTO SEGÚN GIRO: El sistema debe preguntar: "¿Qué vas a vender (alto o bajo contenido alcohólico)?" y "¿Se consumirá en el lugar o es para llevar (envase abierto o cerrado)?", ya que esto cambia radicalmente el presupuesto.
+
+REQUISITOS OBLIGATORIOS:
+1. Identificación oficial vigente.
+2. Constancia de Situación Fiscal (RFC).
+3. Constancia de Registro Estatal de Contribuyentes (REC).
+4. Permiso de Uso de Suelo vigente (Constancia de Factibilidad Municipal).
+5. Número oficial emitido por el municipio.
+6. Acreditación de la propiedad y Constancia de inscripción en el Registro Público de la Propiedad.
+7. Copia del aviso de apertura del establecimiento.
+8. Verificación física del establecimiento (realizada por la oficina recaudadora tras la solicitud).
+9. Para Personas Morales: Acta Constitutiva y Poder Notarial.
+
+COSTOS (PAGO FIJO SEGÚN CATEGORÍA):
+- Alto contenido alcohólico (Envase abierto): $158,841.00 MXN.
+- Alto contenido alcohólico (Envase cerrado): $146,622.00 MXN.
+- Bajo contenido alcohólico (Envase abierto): $18,328.00 MXN.
+- Bajo contenido alcohólico (Envase cerrado): $1,222.00 MXN.
+
+TIEMPO DE RESPUESTA:
+No especificado (SATEG dictamina según sus propios tiempos internos y carga de trabajo).
+
+VIGENCIA:
+1 año (Requiere pago de refrendo anual).

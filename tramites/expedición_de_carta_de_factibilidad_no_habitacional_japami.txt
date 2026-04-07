@@ -1,0 +1,39 @@
+NOMBRE DEL TRÁMITE: 
+Expedición de Carta de Factibilidad (Desarrollos No Habitacionales)
+
+DEPENDENCIA: 
+Junta de Agua Potable, Drenaje, Alcantarillado y Saneamiento (JAPAMI)
+
+ORDEN DE GOBIERNO: 
+Municipal
+
+PROPÓSITO Y CASOS DE USO:
+Este trámite es la validación técnica mediante la cual el municipio confirma la capacidad de infraestructura para proveer servicios de agua potable, alcantarillado y drenaje sanitario. Es indispensable para proyectos que no sean de uso habitacional.
+El ciudadano suele buscar este trámite cuando:
+- "¿Cómo sé si hay agua suficiente para mi negocio en esta zona?"
+- "¿JAPAMI me permite conectarme a su drenaje si construyo una bodega?"
+- "Necesito el papel de factibilidad de agua para que me den el permiso de construcción."
+
+REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+- BLOQUEO POR TRÁMITES PREVIOS: SI el ciudadano no cuenta con el Oficio de Permiso de Uso de Suelo (con sus condicionantes) Y el Oficio de Número Oficial, ENTONCES debe realizarlos primero; JAPAMI no procesará la factibilidad sin estos documentos.
+- CONDICIÓN PARA CONSTRUCCIÓN: SI el ciudadano pretende obtener un "Permiso de Construcción Obra Nueva" (No Habitacional), ENTONCES esta Carta de Factibilidad es un requisito obligatorio y vinculante.
+- CRITERIO DE ALCANCE: Este trámite aplica para CUALQUIER desarrollo no habitacional (comercial, industrial o servicios), sin importar el tamaño del predio o la construcción.
+
+REQUISITOS OBLIGATORIOS:
+1. Identificación Oficial vigente.
+2. Contrato con CFE (Comisión Federal de Electricidad).
+3. Planos de la construcción.
+4. Oficio de Número Oficial (expedido por Desarrollo Urbano).
+5. Permiso de Uso de Suelo (expedido por Desarrollo Urbano).
+6. Croquis de ubicación o localización.
+7. Documento legal que acredite la propiedad o posesión del inmueble.
+8. Acta Constitutiva y Poder Notarial (en caso de ser Persona Moral).
+
+COSTOS:
+- Costo Fijo por predio: $664.72 MXN.
+
+TIEMPO DE RESPUESTA:
+15 días hábiles.
+
+VIGENCIA:
+1 año.
