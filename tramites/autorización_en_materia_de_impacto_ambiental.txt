@@ -1,0 +1,48 @@
+NOMBRE DEL TRÁMITE: 
+Autorización en Materia de Impacto Ambiental
+
+DEPENDENCIA: 
+Secretaría del Agua y Medio Ambiente (SAMA)
+
+ORDEN DE GOBIERNO: 
+Estatal
+
+PROPÓSITO Y CASOS DE USO:
+Este trámite es la evaluación técnica de mayor jerarquía para asegurar que proyectos industriales o de gran escala se desarrollen de manera sostenible. Su objetivo es prevenir daños graves al ambiente y a la salud mediante el análisis de riesgos e impactos considerables.
+El ciudadano o inversionista busca este trámite cuando:
+- "Voy a poner una industria de alto impacto y el municipio no tiene competencia."
+- "Necesito la validación ambiental estatal para que el municipio me deje construir."
+- "Mi proyecto requiere un Estudio de Riesgo Ambiental por las sustancias que manejo."
+
+REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+- COMPETENCIA ESTATAL: SI el giro es industrial de alto impacto o un desarrollo de gran escala, ENTONCES este es el trámite obligatorio; el resolutivo municipal no es suficiente.
+- REQUISITO DE SECUENCIA: SI el ciudadano no cuenta con el "Permiso de Uso de Suelo Municipal" (o equivalente), ENTONCES no puede iniciar este trámite estatal, ya que es un requisito de entrada obligatorio.
+- CANDADO PARA CONSTRUCCIÓN: SI el proyecto es de alto impacto, ENTONCES este resolutivo es un requisito indispensable para obtener el "Permiso de Construcción Obra Nueva" ante el municipio.
+
+REQUISITOS OBLIGATORIOS:
+1. Formato de solicitud oficial.
+2. Manifestación de Impacto Ambiental (MIA).
+3. Permiso de Uso de Suelo Municipal vigente.
+4. Documento que acredite la propiedad o posesión legal del predio.
+5. Plano general del proyecto y Croquis de ubicación.
+6. Reporte fotográfico (mínimo 8 fotos recientes de la zona y colindancias).
+7. Diagrama de flujo del proceso de operación.
+8. Hojas de seguridad de las sustancias a utilizar (si aplica).
+9. Cédula de Registro Federal de Contribuyentes (RFC).
+10. Identificación oficial vigente del solicitante.
+11. Para Personas Morales: Acta Constitutiva y Carta Poder del representante.
+
+COSTOS (SEGÚN MODALIDAD):
+- Modalidad General A: $3,226.00 MXN
+- Modalidad General B: $6,204.00 MXN
+- Modalidad General C: $6,874.00 MXN
+- Evaluación de Estudio de Riesgo Ambiental: $8,400.00 MXN
+- Modalidad Intermedia: $8,562.00 MXN
+- Modalidad Específica: $11,476.00 MXN
+- Estudios de Afectación Ambiental: $61,154.00 MXN
+
+TIEMPO DE RESPUESTA:
+50 días hábiles.
+
+VIGENCIA:
+No aplica vigencia temporal fija. La autorización es válida mientras el proyecto se mantenga fiel a lo presentado originalmente. Si el proyecto sufre modificaciones o alteraciones, la autorización pierde validez de forma inmediata.

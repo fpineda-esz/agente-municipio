@@ -1,0 +1,40 @@
+# NOMBRE DEL TRÁMITE: Permiso de Uso de Suelo (Tradicional / Mediano y Alto Impacto)
+
+# Ficha Técnica
+* **DEPENDENCIA: ** Dirección General de Desarrollo Urbano
+* **ORDEN DE GOBIERNO** Municipal
+* **TIEMPO DE RESPUESTA:** 3 días hábiles.
+* **VIGENCIA:** Indefinida (Se mantiene vigente siempre que el giro no cambie y el Programa Municipal de Desarrollo Urbano no sufra modificaciones que afecten la zona).
+
+
+## PROPÓSITO Y CASOS DE USO:
+Es el dictamen técnico que autoriza legalmente la actividad comercial, industrial o de servicios en un predio, validando su compatibilidad con el Programa Municipal de Desarrollo Urbano. Cubre tanto la fase de construcción como la de operación.
+**El ciudadano busca este trámite cuando:**
+* Su local o predio supera los 120 m2.
+* El giro es de Mediano o Alto Riesgo (Industria, talleres, salones de fiestas, gasolineras, etc.).
+* Requiere venta de alcohol (condicionante para el trámite estatal ante SATEG).
+* Desea cambiar el giro de un establecimiento que ya cuenta con un permiso previo.
+
+## REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS (¡IMPRTANTE PARA EL ASISTENTE!)
+* **REGLA DE UNICIDAD:** SE TRAMITA UNA SOLA VEZ. Si se obtuvo para construir y el giro no cambia, es válido para operar. SI se desea cambiar la actividad (ej. de bodega a taller), se debe tramitar uno nuevo.
+* **REGLA DE EXCLUSIÓN SARE:** SI el local es mayor a 120 m2 O el riesgo es mediano/alto, ENTONCES este es el trámite obligatorio (el SARE queda bloqueado).
+* **REQUISITO OBLIGATORIO PREVIO:** SI el ciudadano no tiene la "Constancia de Certificación Catastral", ENTONCES no puede iniciar la solicitud. (Nota: No requiere Alineamiento y Número Oficial).
+* **REGLA DE INCERTIDUMBRE:** SI existe duda sobre la compatibilidad de la zona, el sistema sugerirá tramitar primero una "Constancia de Factibilidad" como opinión técnica preventiva.
+
+## REQUISITOS OBLIGATORIOS:
+1. Identificación Oficial vigente.
+2. Constancia de Certificación Catastral (Indispensable).
+3. Número de cuenta predial.
+4. Documento que acredite la propiedad (escrituras) o Contrato de Arrendamiento vigente.
+5. Reporte fotográfico detallado (Fachada, accesos, estacionamiento y áreas a ocupar).
+6. Croquis de ubicación o localización del predio.
+
+## COSTOS (PAGO VARIABLE POR SUPERFICIE):
+* 121 a 240 m2: $1,376.21 MXN
+* 241 a 500 m2: $2,824.83 MXN
+* 501 a 1,000 m2: $5,722.10 MXN
+* 1,001 a 5,000 m2: $22,876.99 MXN
+* 5,001 a 10,000 m2: $57,186.77 MXN
+* Más de 10,000 m2: $76,251.59 MXN
+
+

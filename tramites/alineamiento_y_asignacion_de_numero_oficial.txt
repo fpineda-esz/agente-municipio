@@ -1,0 +1,43 @@
+NOMBRE DEL TRÁMITE: 
+Alineamiento y Asignación de Número Oficial
+
+DEPENDENCIA: 
+Dirección General de Desarrollo Urbano
+
+ORDEN DE GOBIERNO: 
+Municipal
+
+PROPÓSITO Y CASOS DE USO:
+Este trámite sirve para determinar oficialmente los límites de un predio con la vía pública (evitando invasiones), conocer las restricciones de construcción y asignar la identidad postal oficial (número) de una propiedad.
+El ciudadano suele buscar este trámite con preguntas como:
+- "¿Cuál es el número oficial de mi local, casa o bodega?"
+- "¿Mi terreno tiene limitaciones o restricciones que debo respetar?"
+- "¿Puedo construir en todo mi terreno hasta la banqueta o debo dejar un espacio?"
+- "¿Cómo saco el número para contratar la luz o el agua?"
+
+REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+- SUPUESTO 1 (Inicio de trámites/Servicios): SI el ciudadano va a construir o a contratar servicios básicos (agua/luz) Y NO tiene un documento oficial del municipio con el número de su predio y limitaciones, ENTONCES indícale que el "Alineamiento y Número Oficial" es el primer paso obligatorio.
+- SUPUESTO 2 (Solo linderos y restricciones): SI el ciudadano ya cuenta con un Número Oficial pero requiere saber con precisión las medidas de colindancia o restricciones de construcción, ENTONCES indícale que realice solo el trámite de "Alineamiento" (los requisitos son los mismos, pero solo pagará el costo de alineamiento).
+- SUPUESTO 3 (Hacia apertura de Negocio): SI el ciudadano ya tiene una construcción terminada y desea operar un establecimiento, ENTONCES indícale que después de este trámite debe gestionar su "Permiso de Uso de Suelo" (advirtiendo que requerirá previamente una Certificación Catastral).
+- SUPUESTO 4 (Terreno baldío / Obra nueva): SI el ciudadano no tiene nada construido en su terreno y desea iniciar un proyecto, ENTONCES indícale que el trámite siguiente es el "Permiso de Construcción Obra Nueva" (advirtiendo que requerirá Certificación Catastral).
+- SUPUESTO 5 (Solo identidad postal): SI el ciudadano ya cuenta con un Alineamiento vigente pero requiere solo el número del predio, ENTONCES indícale que realice el trámite de "Número Oficial" (los requisitos son los mismos, pero solo pagará el costo de asignación de número).
+
+REQUISITOS OBLIGATORIOS:
+(Los requisitos son idénticos ya sea para el trámite individual de Alineamiento, de Número Oficial o el Combo).
+1. Formato de solicitud oficial.
+2. Croquis de ubicación o localización del predio.
+3. Número de cuenta predial (indispensable tenerlo a la mano).
+4. Identificación Oficial vigente del propietario.
+5. Escritura Pública del inmueble.
+
+COSTOS:
+El sistema permite el pago individual o en conjunto ("combo") según la necesidad:
+- Solo Asignación de Número Oficial: $111.94 MXN (por dictamen).
+- Solo Dictamen de Alineamiento: $470.60 MXN.
+- Zonas Populares: Para colonias o fraccionamientos populares, existe una cuota preferencial única de $89.15 MXN (aplica para Alineamiento y Número Oficial).
+
+TIEMPO DE RESPUESTA:
+5 días hábiles (aplica para trámites individuales o en combo).
+
+VIGENCIA:
+No aplica vigencia temporal. El documento pierde validez únicamente si el municipio realiza cambios en el Programa Municipal de Ordenamiento Territorial que afecten las trazas urbanas o zonificación.

@@ -1,0 +1,36 @@
+NOMBRE DEL TRÁMITE: 
+Permiso de Uso de Suelo S.A.R.E. (Sistema de Apertura Rápida de Empresas)
+
+DEPENDENCIA: 
+Dirección General de Desarrollo Urbano
+
+ORDEN DE GOBIERNO: 
+Municipal
+
+PROPÓSITO Y CASOS DE USO:
+Es un esquema de simplificación administrativa diseñado para facilitar la apertura o regularización inmediata de negocios de bajo riesgo. Permite obtener la autorización legal para operar en un inmueble ya construido, siempre que la actividad no genere impactos significativos.
+El ciudadano busca este trámite cuando:
+- "Quiero abrir mi negocio (tienda, oficina, consultorio) lo más pronto posible."
+- "Mi local es pequeño (menos de 120 m2) y ya está construido."
+- "Busco realizar mi trámite por internet sin tantas complicaciones."
+
+REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+- REGLA DE SUPERFICIE (FILTRO CRÍTICO): SI el local mide más de 120 m2, ENTONCES el trámite SARE no aplica y debe realizar el proceso de Uso de Suelo tradicional.
+- REGLA DE ESTADO FÍSICO: SI el ciudadano pretende realizar obras de construcción, ampliación o remodelación, NO aplica SARE. Es exclusivo para locales listos para ocuparse.
+- REGLA DE NIVEL DE RIESGO: Solo aplica para giros comerciales y de servicios catalogados como "Bajo Riesgo".
+- REGLA DE DIGITALIZACIÓN Y SOPORTE: El trámite es preferentemente digital para agilizar tiempos, pero el municipio ofrece soporte presencial en oficinas para orientar al ciudadano en el llenado de su solicitud en el sistema.
+
+REQUISITOS OBLIGATORIOS:
+1. Identificación Oficial vigente.
+2. Constancia de Certificación Catastral.
+3. Fotografía de la fachada del inmueble (clara y reciente).
+
+COSTO:
+Variable según la superficie: $7.62 MXN por cada metro cuadrado (m2).
+(Ejemplo: Un local de 50 m2 pagaría $381.00 MXN).
+
+TIEMPO DE RESPUESTA:
+2 días hábiles (48 horas).
+
+VIGENCIA:
+1 año (Requiere actualización anual).

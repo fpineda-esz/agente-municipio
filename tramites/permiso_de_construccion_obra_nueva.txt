@@ -1,0 +1,49 @@
+NOMBRE DEL TRÁMITE: 
+Permiso de Construcción Obra Nueva
+
+DEPENDENCIA: 
+Dirección General de Desarrollo Urbano
+
+ORDEN DE GOBIERNO: 
+Municipal
+
+PROPÓSITO Y CASOS DE USO:
+Este trámite es la autorización legal definitiva para iniciar la edificación de un inmueble desde cero en un terreno baldío o tras una demolición total. Asegura que el proyecto cumple con las normas de seguridad estructural, servicios y desarrollo urbano.
+El ciudadano o desarrollador busca este trámite cuando:
+- "Ya tengo mis permisos de suelo y agua, ahora quiero empezar a construir."
+- "Licencia de construcción para mi nueva bodega o local comercial."
+- "¿Qué necesito para que no me clausuren la obra que voy a iniciar?"
+Nota: Este trámite NO aplica para remodelaciones, ampliaciones o bardas; solo para construcciones nuevas.
+
+REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+- CIMIENTOS (PRE-REQUISITOS): SI el ciudadano no presenta el "Alineamiento y Asignación de Número Oficial", la "Constancia de Certificación Catastral" y el "Permiso de Uso de Suelo vigente", ENTONCES el trámite es improcedente.
+- CONDICIONANTES VINCULADAS: Dependiendo del dictamen de Uso de Suelo, el sistema solicitará obligatoriamente:
+    1. Expedición de Carta de Factibilidad de JAPAMI (para giros no habitacionales).
+    2. Autorización de Impacto Ambiental (Municipal o Estatal según el giro).
+    3. Manifiesto de Impacto Vial (si el proyecto genera flujo vehicular considerable o supera los 1,600 m²).
+- RESPONSABILIDAD TÉCNICA (DRO): SI la obra es de magnitud mediana o grande, ENTONCES es obligatoria la firma y registro vigente de un Director Responsable de Obra (DRO).
+- EXCLUSIÓN POR ESCALA: SI se trata de una vivienda pequeña de autoconstrucción, ENTONCES debe redirigirse al trámite de "Construcción Menor".
+
+REQUISITOS OBLIGATORIOS:
+1. Formato de solicitud oficial.
+2. Identificación Oficial vigente.
+3. Documento legal de propiedad o Contrato de Arrendamiento.
+4. Número oficial de cuenta predial.
+5. Constancia de Certificación Catastral.
+6. Memoria descriptiva del proyecto arquitectónico (firmada por el DRO).
+7. Reporte fotográfico actual del inmueble (fachada, accesos, áreas a ocupar).
+8. Planos arquitectónicos y estructurales básicos.
+9. Autorizaciones adicionales (JAPAMI, Ambiental, Vial) según el tipo de proyecto.
+
+COSTOS:
+Se compone de una cuota fija más un costo variable por metro cuadrado:
+- Costo fijo por permiso: $373.00 MXN.
+- Uso de Servicios: $11.09 por m².
+- Uso Comercial: $15.96 por m².
+- Uso Industrial: $2.56 por m².
+
+TIEMPO DE RESPUESTA:
+5 días hábiles.
+
+VIGENCIA:
+1 año.

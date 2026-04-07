@@ -1,0 +1,41 @@
+NOMBRE DEL TRÁMITE: 
+Autorización Municipal de Impacto Ambiental
+
+DEPENDENCIA: 
+Dirección General de Sustentabilidad
+
+ORDEN DE GOBIERNO: 
+Municipal
+
+PROPÓSITO Y CASOS DE USO:
+Este trámite es la evaluación técnica que realiza el municipio sobre las posibles afectaciones al entorno natural derivadas de la preparación, construcción u operación de comercios, servicios o industrias. Es un filtro preventivo para asegurar que las actividades económicas no dañen el equilibrio ecológico local.
+El ciudadano suele buscar este trámite cuando:
+- "Necesito el permiso de ecología para mi negocio."
+- "¿Cómo saco el estudio de impacto ambiental que me pide Desarrollo Urbano para mi bodega?"
+- "Trámite de sustentabilidad para poder empezar a construir mi local comercial."
+
+REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+- JERARQUÍA ESTATAL: SI el ciudadano ya cuenta con una Autorización de Impacto Ambiental de orden Estatal, ENTONCES NO requiere este trámite municipal (el estatal tiene jerarquía superior).
+- FILTRO DE IMPACTO: SI la construcción o proyecto NO genera un impacto significativo en la naturaleza, ENTONCES este trámite no es solicitado. Aplica principalmente para comercios/servicios de mediano y alto impacto, así como industrias de mediano impacto.
+- REQUISITO LLAVE: SI el ciudadano no cuenta con un "Permiso de Uso de Suelo" vigente, ENTONCES no puede realizar este trámite, ya que es un requisito obligatorio de entrada.
+- PUENTE A CONSTRUCCIÓN: SI el proyecto lo requiere por su naturaleza, ENTONCES este dictamen es obligatorio para obtener el "Permiso de Construcción Obra Nueva".
+
+REQUISITOS OBLIGATORIOS:
+1. Formato de solicitud oficial.
+2. Documento legal que acredite la propiedad del inmueble.
+3. Permiso de Uso de Suelo vigente.
+4. Plano General del Proyecto.
+5. Reporte de impactos ambientales.
+6. Identificación Oficial vigente.
+7. Croquis de ubicación o localización.
+8. Reporte fotográfico (mínimo 8 fotos del establecimiento desde perspectivas interiores y exteriores).
+9. Para Personas Morales: Acta Constitutiva y Poder Notarial.
+
+COSTOS:
+- Costo Fijo por autorización: $679.35 MXN.
+
+TIEMPO DE RESPUESTA:
+5 días hábiles.
+
+VIGENCIA:
+No aplica vigencia temporal fija. El resolutivo es válido mientras el "Programa Municipal de Ordenamiento Territorial" no sufra cambios que afecten los criterios bajo los cuales se emitió.

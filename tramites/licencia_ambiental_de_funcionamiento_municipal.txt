@@ -1,0 +1,42 @@
+NOMBRE DEL TRÁMITE: 
+Licencia Ambiental de Funcionamiento para Fuentes Fijas de competencia municipal
+
+DEPENDENCIA: 
+Dirección General de Sustentabilidad
+
+ORDEN DE GOBIERNO: 
+Municipal
+
+PROPÓSITO Y CASOS DE USO:
+Es el instrumento que regula las emisiones a la atmósfera y la gestión de residuos para negocios con una ubicación establecida. Es obligatorio para empresas o comercios cuyos procesos generen algún tipo de contaminante ambiental o residuos que requieren manejo especial.
+El ciudadano busca este trámite cuando:
+- "Mi negocio genera humo, gases o polvos por el uso de hornos o calderas."
+- "Tengo un taller o industria y el camión de la basura no se lleva mis aceites o químicos."
+- "En mi permiso de Uso de Suelo dice que debo tramitar mi licencia ambiental para operar."
+
+REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+- REGLA DE PRIORIDAD: Se recomienda obtener primero el Resolutivo de Impacto Ambiental (MIA) para la fase de construcción. La Licencia Ambiental de Funcionamiento (LAF) es para la fase de operación y no debe tramitarse antes de asegurar la legalidad del local.
+- REGLA DE "EL DISPARADOR": SI el "Permiso de Uso de Suelo" establece esta licencia como condicionante, el trámite es obligatorio para la apertura legal.
+- REGLA DE RESIDUOS (MANEJO ESPECIAL): SI la actividad genera aceites usados, químicos, metales o ácidos (desechos que el servicio de basura convencional no retira), ENTONCES requiere esta licencia.
+- REGLA DE EMISIONES (AIRE): SI el proceso incluye chimeneas, calderas, cabinas de pintura o maquinaria que genere polvos/gases, ENTONCES requiere esta licencia.
+
+REQUISITOS OBLIGATORIOS:
+1. Formato de solicitud oficial.
+2. Identificación Oficial vigente (y RFC).
+3. Documento que acredite la propiedad del inmueble.
+4. Permiso de Uso de Suelo vigente.
+5. Diagrama de flujo del proceso de operación (paso a paso de lo que hace el negocio).
+6. Listado de maquinaria y equipo utilizados en el proceso.
+7. Listado de materias primas, insumos y combustibles utilizados.
+8. Relación de productos, subproductos y residuos generados (incluyendo forma de almacenamiento y transporte).
+9. Lista de equipos o sistemas para el control de la contaminación a la atmósfera (filtros, extractores, etc.).
+10. Para Personas Morales: Acta Constitutiva y Poder Notarial del representante legal.
+
+COSTO:
+Pago fijo de $1,109.80 MXN.
+
+TIEMPO DE RESPUESTA:
+10 días hábiles.
+
+VIGENCIA:
+1 año (Requiere renovación anual para asegurar el cumplimiento continuo de las normas ambientales).
