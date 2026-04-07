@@ -85,4 +85,4 @@ def crear_agente():
         return agente_rag
     except Exception as e:
         print(f"Error al iniciar el agente: {e}")
-        return None
+        raise e 
