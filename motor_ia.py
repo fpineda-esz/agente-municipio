@@ -1,4 +1,5 @@
 import os
+import time
 # --- PARCHE PARA STREAMLIT CLOUD ---
 try:
     __import__('pysqlite3')
@@ -48,7 +49,17 @@ def crear_agente():
         mi_llave = os.getenv("GOOGLE_API_KEY")
 
         embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=mi_llave)
-        vectorstore = Chroma.from_documents(documents=textos_divididos, embedding=embeddings)
+        # --- INICIO DEL TRUCO ANTI-BLOQUEO ---
+        # 1. Creamos la base de datos vacía
+        vectorstore = Chroma(embedding_function=embeddings)
+        
+        # 2. Subimos los pedacitos en lotes de 5, con una pausa de 2 segundos
+        tamaño_lote = 5
+        for i in range(0, len(textos_divididos), tamaño_lote):
+            lote = textos_divididos[i:i + tamaño_lote]
+            vectorstore.add_documents(lote)
+            time.sleep(2) # Respira, Google, respira...
+        # --- FIN DEL TRUCO ANTI-BLOQUEO ---
         retriever = vectorstore.as_retriever(search_kwargs={"k": 4}) 
         
         llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0, google_api_key=mi_llave)
