@@ -86,7 +86,20 @@ if consulta_final:
     with st.chat_message("assistant"):
         with st.spinner("Analizando tu caso en los reglamentos..."):
             if st.session_state.agente:
-                respuesta = st.session_state.agente.invoke({"question": consulta_final, "chat_history": historial_actual})
+                # respuesta = st.session_state.agente.invoke({"question": consulta_final, "chat_history": historial_actual})
+                # --- AJUSTE DE MEMORIA CORTA ---
+                    # 1. Agarramos solo los últimos 4 mensajes (2 tuyos y 2 del bot)
+                    ultimos_mensajes = st.session_state.mensajes[-4:]
+                    
+                    # 2. Los convertimos en texto simple (que es lo que tu bot espera)
+                    historial_corto = "\n".join([f"{m['rol']}: {m['contenido']}" for m in ultimos_mensajes])
+                    
+                    # 3. Llamamos al agente con esta memoria "limpia"
+                    respuesta = st.session_state.agente.invoke({
+                        "question": consulta_final, 
+                        "chat_history": historial_corto
+                    })
+                    # --- FIN DEL AJUSTE ---
             else:
                 respuesta = "Aún no tengo documentos en mi base de datos."
             st.markdown(f"<span class='marca-agente'></span> {respuesta}", unsafe_allow_html=True)
